@@ -5,7 +5,7 @@
 # -------------------------------
 clear
 
-text="K M T CYBER DASHBOARD BOOTING..."
+text="Kyaw Min Tun Python Coding......."
 len=${#text}
 
 echo -e "\e[32m"
@@ -18,8 +18,8 @@ done
 echo -e "\n\e[0m"
 
 echo -e "\e[31m┌───────────────────────────────────────┐\e[0m"
-echo -e "\e[31m│        🔥 K M T CYBER DASHBOARD       │\e[0m"
-echo -e "\e[31m│     TOR IP ROTATION CONTROL PANEL     │\e[0m"
+echo -e "\e[31m│       🔥 K M T IP Change Address 🔥     │\e[0m"
+echo -e "\e[31m│         
 echo -e "\e[31m└───────────────────────────────────────┘\e[0m"
 echo ""
 
