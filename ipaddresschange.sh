@@ -93,7 +93,7 @@ trap "echo -e '\n\e[1;31m[STOPPED KMT SYSTEM]\e[0m'; exit" SIGINT
 # -------------------------------
 # LIVE IP LOOP
 # -------------------------------
-ROTATION_TIME=10
+ROTATION_TIME=5
 
 while true; do
 
