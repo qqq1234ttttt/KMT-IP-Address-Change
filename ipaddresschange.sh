@@ -17,9 +17,11 @@ done
 
 echo -e "\n\e[0m"
 
+# -------------------------------
+# 🎨 FIXED BANNER
+# -------------------------------
 echo -e "\e[31m┌───────────────────────────────────────┐\e[0m"
-echo -e "\e[31m│       🔥 K M T IP Change Address 🔥     │\e[0m"
-echo -e "\e[31m│         
+echo -e "\e[31m│       🔥 KMT IP Change Address 🔥     │\e[0m"
 echo -e "\e[31m└───────────────────────────────────────┘\e[0m"
 echo ""
 
